@@ -1,5 +1,5 @@
 ## Magento 2 Province Italiane
-Module that implements italian regions for Magento 2.x from [Artera](https://www.artera.it/) team.
+Module that implements italian provinces for Magento 2.x from [Artera](https://www.artera.it/) team.
 
 ### 1. Install the module
 We explain two different methods to install this module, we reccomend choosing composer.
@@ -8,7 +8,7 @@ We explain two different methods to install this module, we reccomend choosing c
 
 **Install the module**
 ```
-composer require artera/magento-2-province-italiane:dev-master
+composer require artera/magento2-province-italiane
 ```
 
 ##### Method #2. Download and upload the module locally (not recommended)
