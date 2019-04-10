@@ -46,6 +46,11 @@ php bin/magento cache:flush
 
 Here `System > Cache Management > Flush Magento Cache`
 
+## Supported Magento versions
+
+- Magento v2.1.x
+- Magento v2.2.x
+- Magento v2.3.x
 
 
 ## License
